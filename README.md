@@ -6,4 +6,3 @@
 
 ![MieAh‘s GitHub stats](https://github-readme-stats.vercel.app/api?username=MieAh&show_icons=true&theme=tokyonight)
 ![MieAh"s Most Use](https://github-readme-stats.vercel.app/api/top-langs/?username=MieAh&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MieAh)
